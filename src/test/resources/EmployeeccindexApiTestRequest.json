@@ -1,0 +1,28 @@
+{
+  "ccsa" : 1.3579,
+  "projectname" : "aeiou",
+  "mentorempname" : "aeiou",
+  "menteeemail" : "aeiou",
+  "level" : "aeiou",
+  "mentorempid" : "aeiou",
+  "softskills" : {
+    "skillname" : "aeiou",
+    "skilltype" : "aeiou",
+    "grade" : "aeiou"
+  },
+  "capabilitycentre" : "aeiou",
+  "corealtimetrikskills" : {
+    "skillname" : "aeiou",
+    "skilltype" : "aeiou",
+    "grade" : "aeiou"
+  },
+  "location" : "aeiou",
+  "technicalskills" : {
+    "skillname" : "aeiou",
+    "skilltype" : "aeiou",
+    "grade" : "aeiou"
+  },
+  "_id" : "aeiou",
+  "menteename" : "aeiou",
+  "timestamp" : "2017-06-28T12:49:31.817+0000"
+}
